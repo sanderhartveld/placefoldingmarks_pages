@@ -12,7 +12,7 @@ Welcome to the documentation of the QGis plugin **[Place Folding Marks](https://
 Use the menu or the links below to learn more.
 
 - [Installation](./installation.md)
-- [Usage](./Usage.md)
+- [Usage](./usage.md)
 - [Development](https://github.com/sanderhartveld/placefoldingmarks)
 
 
