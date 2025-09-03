@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-<p style="text-align:center"> 
+
 ![Icon](images/icon_64x64.png) 
-</p>
 
 # Place Folding Marks
 
