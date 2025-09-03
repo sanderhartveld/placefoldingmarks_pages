@@ -5,7 +5,7 @@ title: Home
 
 # Place Folding Marks
 
-Welcome to the documentation of the QGis plugin **Place Folding Marks**.
+Welcome to the documentation of the QGis plugin **[Place Folding Marks](https://github.com/sanderhartveld/placefoldingmarks)**.
 
 Use the menu or the links below to learn more.
 
