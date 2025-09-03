@@ -3,5 +3,5 @@ description: Documentation of the QGIS plugin Place Folding Marks
 theme: jekyll-theme-time-machine
 show_downloads: true
 github:
-  repository_name: placefoldingmarks
+  repository_url: https://github.com/sanderhartveld/placefoldingmarks
   zip_url: https://github.com/sanderhartveld/placefoldingmarks/releases/download/v1.1/PlaceFoldingMarks.zip
