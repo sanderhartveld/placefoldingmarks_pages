@@ -1,13 +1,3 @@
-lsi: false
-safe: true
-source: /
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Place Folding Marks
+description: Documentatie van de QGIS plugin Place Folding Marks
+theme: jekyll-theme-time-machine
