@@ -4,4 +4,5 @@ theme: jekyll-theme-time-machine
 show_downloads: true
 github:
   description: Documentation of the QGis plugin Place Folding Marks.
+  github.repository_name: placefoldingmarks
   zip_url: https://github.com/sanderhartveld/placefoldingmarks/releases/download/v1.1/PlaceFoldingMarks.zip
