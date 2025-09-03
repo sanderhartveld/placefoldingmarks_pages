@@ -5,10 +5,10 @@ title: Home
 
 # Place Folding Marks
 
-Welkom bij de documentatie van de QGIS plugin **Place Folding Marks**.
+Welcome to the documentation of the QGis plugin **Place Folding Marks**.
 
-Gebruik het menu of de links hieronder om meer te leren:
+Use the menu of the links below to learn more.
 
-- [Installatie](./installatie.md)
-- [Gebruik](./gebruik.md)
-- [Ontwikkeling](./ontwikkeling.md)
+- [Installation](./installation.md)
+- [Usage](./Usage.md)
+- [Development](./development.md)
