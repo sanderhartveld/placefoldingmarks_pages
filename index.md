@@ -13,7 +13,7 @@ Use the menu or the links below to learn more.
 
 - [Installation](./installation.md)
 - [Usage](./Usage.md)
-- [Development](./development.md)
+- [Development](https://github.com/sanderhartveld/placefoldingmarks)
 
 
 **Please note**
