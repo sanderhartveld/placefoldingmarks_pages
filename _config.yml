@@ -4,4 +4,5 @@ theme: jekyll-theme-time-machine
 show_downloads: true
 github:
   repository_url: https://github.com/sanderhartveld/placefoldingmarks
+  tar_url: false
   zip_url: https://github.com/sanderhartveld/placefoldingmarks/releases/download/v1.1/PlaceFoldingMarks.zip
